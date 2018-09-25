@@ -1,0 +1,9 @@
+﻿1>------ Перестроение всех файлов начато: проект: ShopAuto, Конфигурация: Debug Win32 ------
+1>AddEditForm.cpp
+1>MainForm.cpp
+1>SearshForm.cpp
+1>ViewForm.cpp
+1>Создание кода...
+1>.NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+1>ShopAuto.vcxproj -> D:\!БГУИР\3Курс\1Семестр\КПиЯП\!Учёба\!Курсовой проект\ShopAuto\Debug\ShopAuto.exe
+========== Перестроение всех проектов: успешно: 1, с ошибками: 0, пропущено: 0 ==========
